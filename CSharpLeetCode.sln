@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpLeetCode", "CSharpLeetCode\CSharpLeetCode.csproj", "{00903CD3-03F2-4C86-980D-20370400A030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "链表", "链表\链表.csproj", "{79083CBF-EFEF-461C-9CA7-6367E3A34BDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00903CD3-03F2-4C86-980D-20370400A030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00903CD3-03F2-4C86-980D-20370400A030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00903CD3-03F2-4C86-980D-20370400A030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00903CD3-03F2-4C86-980D-20370400A030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79083CBF-EFEF-461C-9CA7-6367E3A34BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79083CBF-EFEF-461C-9CA7-6367E3A34BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79083CBF-EFEF-461C-9CA7-6367E3A34BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79083CBF-EFEF-461C-9CA7-6367E3A34BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3CD6C65-099D-424A-8695-1223B677724C}
+	EndGlobalSection
+EndGlobal
